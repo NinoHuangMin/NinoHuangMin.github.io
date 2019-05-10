@@ -1,15 +1,13 @@
-## Welcome to GitHub Pages
+## 欢迎进入PA的分享生活
 
-You can use the [editor on GitHub](https://github.com/NinoHuangMin/NinoHuangMin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+内容信息
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 标题1
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+描述
 
 ```markdown
-Syntax highlighted code block
+内部的语法描述
 
 # Header 1
 ## Header 2
@@ -28,10 +26,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 主题信息
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NinoHuangMin/NinoHuangMin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+内容
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 支持描述
+内容
